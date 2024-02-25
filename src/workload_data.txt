@@ -1,0 +1,10 @@
+CPU Usage: 1.6%
+Memory Usage: 79.5%
+HDD Usage: 46.7%
+Network Usage: 893498760 bytes
+
+CPU Usage: 1.4%
+Memory Usage: 83.2%
+HDD Usage: 46.7%
+Network Usage: 949657927 bytes
+

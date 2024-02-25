@@ -1,6 +1,11 @@
-# Windows Service to collect data about your PC workload.
 
-dependencies used:
+# Windows service
+- python main.py install
+- python main.py start
+- python main.py stop
+- python main.py remove
 
-1. pip install pywin32
-2. pip install smtplib
+if Error installing service: The process cannot access the file because it is being used by another process. (32) run this
+```
+taskkill /F /FI "SERVICES eq PCWorkloadService
+```

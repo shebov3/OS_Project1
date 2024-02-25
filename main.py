@@ -1,5 +1,5 @@
 import smtplib
-from colors import * # Just to color the terminal
+from utils.colors import * # Just to color the terminal
 
 print("Login in")
 Email = input(colors.CGREEN+"Email: ")
